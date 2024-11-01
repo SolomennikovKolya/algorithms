@@ -3,12 +3,12 @@
 
 1. **Базовые алгоритмы**:
 	- **Сортировки**:
-	    - Пузырьковая сортировка
-	    - Сортировка выбором
-	    - Сортировка вставками
-	    - Быстрая сортировка (QuickSort)
-	    - Сортировка слиянием (MergeSort)
-	    - Пирамидальная сортировка (Heapsort)
+	    - [Пузырьковая сортировка](code\basic_algorithms\sorting\bubble_sort)
+	    - [Сортировка выбором](code\basic_algorithms\sorting\choice_sort)
+	    - [Сортировка вставками](code\basic_algorithms\sorting\insert_sort)
+	    - [Быстрая сортировка (QuickSort)](code\basic_algorithms\sorting\quick_sort)
+	    - [Сортировка слиянием (MergeSort)](code\basic_algorithms\sorting\merge_sort)
+	    - [Пирамидальная сортировка (Heapsort)](code\basic_algorithms\sorting\heap_sort)
 	- **Поиск**:
 	    - Бинарный поиск
 	- **Алгоритмы работы с числами**:
