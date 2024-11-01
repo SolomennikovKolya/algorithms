@@ -4,7 +4,7 @@
 1. **Базовые алгоритмы**:
 	- **Сортировки**:
 	    - [Пузырьковая сортировка](code/basic_algorithms/sorting/bubble_sort)
-	    - [Сортировка выбором](code/basic_algorithms/sorting/choice_sort)
+	    - [Сортировка выбором](code/basic_algorithms/sorting/selection_sort)
 	    - [Сортировка вставками](code/basic_algorithms/sorting/insert_sort)
 	    - [Быстрая сортировка (QuickSort)](code/basic_algorithms/sorting/quick_sort)
 	    - [Сортировка слиянием (MergeSort)](code/basic_algorithms/sorting/merge_sort)
