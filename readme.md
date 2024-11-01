@@ -3,12 +3,12 @@
 
 1. **Базовые алгоритмы**:
 	- **Сортировки**:
-	    - [Пузырьковая сортировка](code\basic_algorithms\sorting\bubble_sort)
-	    - [Сортировка выбором](code\basic_algorithms\sorting\choice_sort)
-	    - [Сортировка вставками](code\basic_algorithms\sorting\insert_sort)
-	    - [Быстрая сортировка (QuickSort)](code\basic_algorithms\sorting\quick_sort)
-	    - [Сортировка слиянием (MergeSort)](code\basic_algorithms\sorting\merge_sort)
-	    - [Пирамидальная сортировка (Heapsort)](code\basic_algorithms\sorting\heap_sort)
+	    - [Пузырьковая сортировка](code/basic_algorithms/sorting/bubble_sort)
+	    - [Сортировка выбором](code/basic_algorithms/sorting/choice_sort)
+	    - [Сортировка вставками](code/basic_algorithms/sorting/insert_sort)
+	    - [Быстрая сортировка (QuickSort)](code/basic_algorithms/sorting/quick_sort)
+	    - [Сортировка слиянием (MergeSort)](code/basic_algorithms/sorting/merge_sort)
+	    - [Пирамидальная сортировка (Heapsort)](code/basic_algorithms/sorting/heap_sort)
 	- **Поиск**:
 	    - Бинарный поиск
 	- **Алгоритмы работы с числами**:
@@ -137,7 +137,7 @@
 
 4. **Алгоритмы обработки строк продвинутого уровня**:
 	- **Суффиксный массив и суффиксное дерево**:
-	    - Построение суффиксного массива за O(nlog⁡n)O(n \log n)O(nlogn) или O(n)O(n)O(n) времени (алгоритмы Касаи, алгоритм Манбера-Майерса).
+	    - Построение суффиксного массива за O(nlog⁡n)O(n /log n)O(nlogn) или O(n)O(n)O(n) времени (алгоритмы Касаи, алгоритм Манбера-Майерса).
 	    - Суффиксный автомат для эффективной работы с подстроками.
 	- **Алгоритм Aho-Corasick** — автомат для поиска нескольких шаблонов в строке, полезен для обработки большого количества запросов на подстроки.
 	- **Алгоритмы хеширования строк**:
